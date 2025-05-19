@@ -1,20 +1,37 @@
 <h1 align="center">Hi 👋, I'm Whuq</h1>
-<h3 align="center">A passionate backend developer & creative mind from Turkey</h3>
+<h3 align="center">Founder of ATCKLabs | Backend Developer, Web Specialist, and AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=whuq3ht&label=Profile%20views&color=0e75b6&style=flat" alt="whuq3ht" />
 </p>
+
+<p align="center">
+  <img src="https://atcklabs.eu/assets/img/favicon.png" alt="ATCKLabs Favicon" width="64" height="64"/>
+</p>
+
+---
+
+### 💡 About Me
+
+I specialize in backend systems, Discord & TeamSpeak automation, web development, and integrating modern AI technologies into real-world use cases.  
+Founder of [ATCKLabs.eu](https://atcklabs.eu) — a digital agency that delivers cutting-edge software, creative UI/UX design, and secure hosting services.
 
 ---
 
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
+
+  <!-- Extra Icons -->
+  <img src="https://img.icons8.com/fluency/48/teamspeak.png" title="TeamSpeak" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/discord-logo.png" title="Discord" width="40" height="40"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-web-web-development-flat-flat-juicy-fish.png" title="Web" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/artificial-intelligence.png" title="AI" width="40" height="40"/>
 </p>
 
 ---
@@ -32,4 +49,5 @@
 <p align="center">
   <a href="https://github.com/whuq3ht" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://instagram.com/haktan0zturk" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://atcklabs.eu" target="_blank"><img src="https://atcklabs.eu/assets/img/favicon.png" alt="ATCKLabs" width="32" height="32" style="vertical-align:middle;"> <strong>ATCKLabs.eu</strong></a>
 </p>
