@@ -27,13 +27,6 @@ Founder of [ATCKLabs.eu](https://atcklabs.eu) — a digital agency that delivers
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
 
-  <!-- Extra Icons -->
-  <img src="https://img.icons8.com/fluency/48/teamspeak.png" title="TeamSpeak" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/discord-logo.png" title="Discord" width="40" height="40"/>
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-web-web-development-flat-flat-juicy-fish.png" title="Web" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/artificial-intelligence.png" title="AI" width="40" height="40"/>
-</p>
-
 ---
 
 ### 📈 GitHub Stats
