@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Whuq</h1>
-<h3 align="center">Founder of ATCKLabs | Backend Developer, Web Specialist, and AI Enthusiast</h3>
+<h3 align="center">Founder of ATCKLabs | Backend Developer, Web Specialist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=whuq3ht&label=Profile%20views&color=0e75b6&style=flat" alt="whuq3ht" />
