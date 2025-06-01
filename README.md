@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://atcklabs.eu/assets/img/favicon.png" alt="ATCKLabs Favicon" width="64" height="64"/>
+  <img src="https://i.ibb.co/WvCyt8q1/favicon.png" alt="ATCKLabs Favicon" width="64" height="64"/>
 </p>
 
 ---
